@@ -19,7 +19,20 @@ body {
 	flex-direction: column;
 }
 
-.app__body {
+.app-body {
 	flex-grow: 1;
 	display: flex;
+}
+
+.player{
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+}
+
+button{
+    background-color: none;
+    border: none;
 }
