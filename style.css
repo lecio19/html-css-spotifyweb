@@ -36,3 +36,28 @@ button{
     background-color: none;
     border: none;
 }
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.symbol{
+    margin: 0px 12px;
+    font-size: 26px;
+}
+
+.progressive{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    gap: 17px;
+}
+
+.progressive2{
+    height: 5px;
+    width: 100px;
+    flex-grow: 1;
+}
