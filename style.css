@@ -73,3 +73,18 @@ button{
     flex-grow: 1;
 }
 
+.logo-m{
+    width: 115px;
+    display: block;
+}
+
+.logo-l{
+    width: 100%;
+    display: none;
+}
+
+.app-side{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
