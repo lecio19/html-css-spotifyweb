@@ -61,3 +61,15 @@ button{
     width: 100px;
     flex-grow: 1;
 }
+
+.commands > * {
+    font-size: 25px;
+    margin: 0 10px;
+}
+
+.slider {
+    height: 3px;
+    width: 100px;
+    flex-grow: 1;
+}
+
